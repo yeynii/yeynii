@@ -9,10 +9,6 @@
 <img src="https://img.shields.io/badge/PostCss-DD3A0A?style=flat-square&logo=PostCSS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>
-#### Social Networks
-[<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>]()
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>]()
-[<img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>]()
 
 #### Github
 ![Yeyun's github stats](https://github-readme-stats.vercel.app/api?username=yeynii&show_icons=true&theme=dark)
