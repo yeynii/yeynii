@@ -8,6 +8,3 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/></a>
-
-#### Github
-![Yeyun's github stats](https://github-readme-stats.vercel.app/api?username=yeynii&show_icons=true&theme=dark)
